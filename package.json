@@ -1,0 +1,17 @@
+﻿{
+	"name": "axisj-theme-axboot",
+	"version": "1.0.0",
+	"devDependencies": {
+		"gulp": "*",
+		"gulp-changed": "*",
+		"gulp-concat": "*",
+		"gulp-less": "",
+		"gulp-clean-css": "",
+		"gulp-clean": "",
+		"gulp-uglify": "^1.5.1",
+		"js-beautify": "^1.5.10",
+		"gulp-plumber": "",
+		"gulp-notify": "",
+		"gulp-util": "*"
+	}
+}
